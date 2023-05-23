@@ -3,7 +3,7 @@ Welcome to The Github Respository of James Schwantes. This respository contains 
 
 * [Internship/Capstone Project](https://github.com/CommanderKnight5214/Internship-Senior-Capstone-Project/blob/main/README.md): This project was a large project that I got to do during the course of Internship at SKYGEN USA. In addition to this I also got to claim this project as my Senior Capstone Project while attending Concordia University of Wisconsin as well. 
 
-* [Hackathon Projects](https://github.com/CommanderKnight5214/MyPastProgrammingProjects/tree/main/Hackathon%20Projects): These projects were completed during a Hackathon Event. A Hackthon by definition is: "an event in which a large number of people meet to engage in collaborative computer programming."
+* [Hackathon Projects](https://github.com/CommanderKnight5214/Hackthon-Project): These projects were completed during a Hackathon Event. A Hackthon by definition is: "an event in which a large number of people meet to engage in collaborative computer programming."
 
 * [Class Projects](https://github.com/CommanderKnight5214/MyPastProgrammingProjects/tree/main/Class%20Assignments): These projects were completed during some of the classes that I was taking while attending Concordia University of Wisconsin.
 
