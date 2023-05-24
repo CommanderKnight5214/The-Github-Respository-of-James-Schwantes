@@ -1,7 +1,7 @@
 # The Github Respository of James Schwantes
 Welcome to The Github Respository of James Schwantes. This respository contains all of the large projects that I have worked on over the past four years, while attending Concordia University of Wisconsin. Each of these projects can be placed into four categories, and each category can be listed as follows:
 
-* [Internship/Capstone Project](https://github.com/CommanderKnight5214/Internship-Senior-Capstone-Project/blob/main/README.md): This project was a large project that I got to do during the course of Internship at SKYGEN USA. In addition to this I also got to claim this project as my Senior Capstone Project while attending Concordia University of Wisconsin as well. 
+* [Internship/Capstone Project](https://github.com/CommanderKnight5214/Internship-Senior-Capstone-Project/tree/main): This project was a large project that I got to do during the course of Internship at SKYGEN USA. In addition to this I also got to claim this project as my Senior Capstone Project while attending Concordia University of Wisconsin as well. 
 
 * [Hackathon Projects](https://github.com/CommanderKnight5214/Hackthon-Project): These projects were completed during a Hackathon Event. A Hackthon by definition is: "an event in which a large number of people meet to engage in collaborative computer programming."
 
