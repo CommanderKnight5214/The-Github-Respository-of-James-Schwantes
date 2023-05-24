@@ -5,7 +5,7 @@ Welcome to The Github Respository of James Schwantes. This respository contains 
 
 * [Hackathon Projects](https://github.com/CommanderKnight5214/Hackthon-Project): These projects were completed during a Hackathon Event. A Hackthon by definition is: "an event in which a large number of people meet to engage in collaborative computer programming."
 
-* [Class Projects](https://github.com/CommanderKnight5214/MyPastProgrammingProjects/tree/main/Class%20Assignments): These projects were completed during some of the classes that I was taking while attending Concordia University of Wisconsin.
+* [Class Projects](https://github.com/CommanderKnight5214/Class-Projects/blob/main/README.md): These projects were completed during some of the classes that I was taking while attending Concordia University of Wisconsin.
 
 * [Side Projects](https://github.com/CommanderKnight5214/MyPastProgrammingProjects/tree/main/My%20Personal%20Projects): All of these projects were completed on the side when I had some spair time, or when I had an idea to create a useful program that would help me with some repetitive tasks that I was doing.
 
